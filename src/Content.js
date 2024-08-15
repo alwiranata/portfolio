@@ -100,17 +100,17 @@ export const content = {
 			},
 			{
 				name: "ExpressJS",
-				para: "Dynamic, versatile web language",
+				para: "Web framework for Node.js",
 				logo: expressjs,
 			},
 			{
 				name: "PHP",
-				para: "Dynamic, versatile web language",
+				para: "Popular server-side scripting language",
 				logo: php,
 			},
 			{
 				name: "Codeigniter",
-				para: "Dynamic, versatile web language",
+				para: "Lightweight PHP framework",
 				logo: ci,
 			},
 		],
